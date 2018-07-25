@@ -1,0 +1,20 @@
+.box{
+	background: #C0C0C0;
+	padding: 0px 10px 10px 10px;
+	border:3px solid black;
+	margin-right: auto;
+	margin-left: auto;
+	width: 90%;
+	box-sizing:border-box;
+}
+.food{
+	font-weight: bold; 
+	text-align: center; 
+	padding: 10px; 
+	border: 3px solid black; 
+	width: 100px; 
+	float: right;}
+
+
+
+	
