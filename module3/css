@@ -4,7 +4,7 @@
 }
 
 body {font-size: 16px;
-	background-color: #FFFAFA;
+	background-color: #AFEEEE;
 	}
 
 #header-nav {
