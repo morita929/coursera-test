@@ -1,0 +1,12 @@
+*{box-sizing: border-box;
+	font-family: 'Doppio One', sans-serif;
+}
+
+body {font-size: 16px;
+	background-color: #AFEEEE;
+	}
+
+#header-nav {
+	background-color: blue;
+	border-radius: 0;
+	Border: 0; }
