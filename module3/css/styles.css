@@ -64,12 +64,19 @@ body {font-size: 16px;
 }
 
 
-#box {
+.box {
 	background-color: #FAF0E6;
 	padding: 20px;
+	font-size: 15px;
 }
 
-.products {text-align: center;}
+.products {
+	text-align: center;
+	font-style: bold;
+	font-size: 20px;
+	background-color: #FAF0E6;
+	padding-top: 10px;
+}
 
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
