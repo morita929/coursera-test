@@ -64,6 +64,10 @@ body {font-size: 16px;
 }
 
 
+.container {
+	clear: both;
+}
+
 .box {
 	background-color: #FAF0E6;
 	padding: 20px;
@@ -78,7 +82,27 @@ body {font-size: 16px;
 	padding-top: 10px;
 }
 
-/********** Small devices only **********/
-@media (min-width: 768px) and (max-width: 991px) {
 
+@media (min-width:992px)
+{.col-md-4{
+
+	width:33.33%;
+	float:left;
+
+	}
+
+
+}
+@media (min-width: 768px) and (max-width:991px) 
+{
+	.col-sm-6{
+		width:50%;
+		float:left;
+	}
+	.col-sm-12{
+		width:100%;
+		float:left;
+	}
+	
+}
 }
